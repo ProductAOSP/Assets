@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="156mm"
+   viewBox="0 0 500 156"
+   version="1.1"
+   id="svg20064"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="ProductAOSPHeader.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20066"
+     pagecolor="#141414"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.32346812"
+     inkscape:cx="956.81763"
+     inkscape:cy="814.60887"
+     inkscape:window-width="1350"
+     inkscape:window-height="1230"
+     inkscape:window-x="751"
+     inkscape:window-y="126"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs20061">
+    <rect
+       x="151.48324"
+       y="86.561853"
+       width="1647.7667"
+       height="404.98581"
+       id="rect20237" />
+    <rect
+       x="0"
+       y="859.10468"
+       width="918.12708"
+       height="740.62653"
+       id="rect12710" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.35091823,0,0,0.35091823,205.02077,-340.78692)"
+       id="text12708"
+       style="font-size:517.333px;white-space:pre;shape-inside:url(#rect12710);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.55685;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="0"
+         y="2071.7091"
+         id="tspan20745"><tspan
+           dx="0 243.75 142.04559 238.63605 248.29553 232.38611 223.29553 145.45447 256.81836"
+           style="font-size:400px;font-family:Inter;-inkscape-font-specification:Inter"
+           id="tspan20743">productAO</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.181851,24.019893)"
+       id="text20235"
+       style="font-size:192px;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei';text-align:center;white-space:pre;shape-inside:url(#rect20237);fill:#ffffff;stroke-width:2.88756"><tspan
+         x="353.33496"
+         y="256.89431"
+         id="tspan20749">pr<tspan
+   style="fill:none;stroke:#e8e8e8"
+   id="tspan20747">oduct</tspan>AOSP</tspan></text>
+  </g>
+</svg>

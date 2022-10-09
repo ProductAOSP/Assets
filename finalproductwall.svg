@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="2400"
+   viewBox="0 0 285.74999 635"
+   version="1.1"
+   id="svg5909"
+   inkscape:export-filename="finalproductwall.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="finalproductwall.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5911"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="true"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.457453"
+     inkscape:cx="17.488135"
+     inkscape:cy="1055.8462"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5906">
+    <rect
+       x="0"
+       y="859.10465"
+       width="918.1271"
+       height="740.62655"
+       id="rect8007" />
+    <rect
+       x="0"
+       y="859.10465"
+       width="918.1271"
+       height="740.62655"
+       id="rect12710" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#030303;stroke:none;stroke-width:0;fill-opacity:1;stroke-opacity:0.40492958;stroke-dasharray:none"
+       id="rect6499"
+       width="498.79129"
+       height="473.1954"
+       x="-277.49695"
+       y="-155.4512"
+       transform="rotate(-40.750375)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,20.218995,87.705226)"
+       id="text12708"
+       style="font-size:192px;white-space:pre;shape-inside:url(#rect12710);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.50961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="0"
+         y="1036.7956"
+         id="tspan18291"><tspan
+           style="font-family:Inter;-inkscape-font-specification:Inter"
+           id="tspan18287">pr</tspan><tspan
+           style="fill:none;stroke:#bbbbbb"
+           id="tspan18289">oduct</tspan></tspan></text>
+  </g>
+</svg>
